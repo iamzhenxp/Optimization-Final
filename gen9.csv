@@ -1,0 +1,5 @@
+generator,bus,fuel,pmax,sigma
+0,0,gas,250,150
+1,1,gas,300,600	
+2,2,wind,270,0
+END
